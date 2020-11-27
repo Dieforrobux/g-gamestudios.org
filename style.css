@@ -1,0 +1,36 @@
+.paragraph {
+ font-size: 60px;
+ line-height: 72;
+ color: black;
+ font-family: 'Titillium Web', sans-serif;
+ position: absolute;
+ top: 230px;
+ right: 0px;
+}
+.section-1 {
+    width: 100%;
+    height: 1400px;
+    background-color: white;
+    position: relative;
+    padding-top: 100px;
+}
+
+.move-me {
+    width: 100%;
+    height: 100px;
+}
+.assets-search {
+    width: 19px;
+    height: 19px;
+    position: relative;
+    background-position-x: 0;
+    background-position-y: 445;
+}
+.assets-main_logo {
+    width: 146px;
+    height: 65px;
+}
+.navBar {
+    width: 725px;
+    height: 72px;
+}
